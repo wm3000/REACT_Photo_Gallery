@@ -2,7 +2,7 @@
   "name": "nowy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wm3000",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -12,7 +12,8 @@
     "react-dom": "^16.13.1",
     "react-images": "^1.1.7",
     "react-photo-gallery": "^8.0.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "semantic-ui-react": "^0.88.2"
   },
   "scripts": {
     "predeploy": "npm run build",

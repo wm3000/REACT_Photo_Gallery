@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from "react";
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
